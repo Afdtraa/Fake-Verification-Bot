@@ -1,6 +1,5 @@
 {
-    "botToken": "
-    ",
+    "botToken":  "token"
     "prefix": "*",
     "command_name": "start",
     
